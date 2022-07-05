@@ -9,6 +9,7 @@
 - 右上にタイマーが表示されプレイ時間が記録されます。
 ![Test Image 1](img/cap1.PNG "cap1")
 ![Test Image 2](img/cap2.PNG "cap2")
+![Test Image 2](img/cap3.gif "cap3")
 
 ## リポジトリ内容
 
